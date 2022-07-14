@@ -1,0 +1,6 @@
+Parts not found in 3dpack.dat or 3dusrpac.dat are:
+//J1	DCJ0202	DCJ0202
+//U1		SSOP28DB
+//X1	PN61729-S	PN61729-S
+//X2		W237-132
+//X3		W237-132
